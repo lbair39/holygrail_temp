@@ -1,0 +1,54 @@
+html {
+    height: 100%;
+}
+body {
+    background-color:blue;
+}
+header{
+    background-color: purple;
+    border: solid 1px black;
+}
+h1{ 
+    font-size: xx-large;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+aside {
+    width: 33%;
+    height: 600px;
+    background-color: rgb(212, 124, 208);
+}
+div{
+    width: 33%;
+    height: 600px;
+    background-color: aqua;
+}
+section {
+    width: 33%;
+    height: 600px;
+    background-color: rgb(212, 124, 208);
+}
+li{
+    font-size: larger;
+    font-weight:bold;
+    padding:10px;
+}
+h2{
+    font-size: larger;
+    font-weight:bold;
+    padding:10px;
+}
+p{font-size: large;
+padding: 5px;}
+h3{
+    font-size: larger;
+    font-weight:bold;
+    padding:10px;
+}
+footer{
+    background-color: purple;
+    text-align:center;
+    padding: 10px;
+    color:white;
+}
