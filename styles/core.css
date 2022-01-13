@@ -15,17 +15,14 @@ h1{
     font-weight: bold;
 }
 aside {
-    width: 33%;
     height: 600px;
     background-color: rgb(212, 124, 208);
 }
 div{
-    width: 33%;
     height: 600px;
     background-color: aqua;
 }
 section {
-    width: 33%;
     height: 600px;
     background-color: rgb(212, 124, 208);
 }
